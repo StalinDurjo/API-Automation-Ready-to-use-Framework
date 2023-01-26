@@ -1,0 +1,7 @@
+2023-01-26 23:33:11 [INFO ] [Hooks:26] - Test Scenario - [Retrive current weather data for location "london"] - Status --> (EXECUTED)
+2023-01-26 23:33:14 [INFO ] [Hooks:31] - Test Scenario - [Retrive current weather data for location "london"] - Status --> (PASSED)
+2023-01-26 23:33:14 [INFO ] [Hooks:33] - Test Scenario state clearing procedure initiated...
+2023-01-26 23:33:14 [INFO ] [Hooks:36] - Global variables deleted
+2023-01-26 23:33:14 [INFO ] [Hooks:39] - Access token is set to null
+2023-01-26 23:33:14 [INFO ] [Hooks:42] - HTTP Response state is set to null
+2023-01-26 23:33:14 [INFO ] [Hooks:43] - =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
